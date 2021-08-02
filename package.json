@@ -1,0 +1,27 @@
+{
+  "name": "cw-logs-to-slack",
+  "version": "1.0.0",
+  "description": "aws cloudfront logs to slack alert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://junheay@github.com/junehay/cw-logs-to-slack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junehay/cw-logs-to-slack/issues"
+  },
+  "homepage": "https://github.com/junehay/cw-logs-to-slack#readme",
+  "devDependencies": {
+    "@types/node": "^16.4.10",
+    "@typescript-eslint/eslint-plugin": "^4.28.5",
+    "@typescript-eslint/parser": "^4.28.5",
+    "eslint": "^7.32.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.5"
+  }
+}
